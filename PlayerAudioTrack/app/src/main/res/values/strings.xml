@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PlayerAudioTrack</string>
+    <string name="pcm_16_bit">PCM 16 Bit</string>
+    <string name="pcm_float">PCM FLOAT</string>
+</resources>
